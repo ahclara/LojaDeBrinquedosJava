@@ -1,4 +1,4 @@
-#Sistema de Gerenciamento de Loja de Brinquedos
+##Sistema de Gerenciamento de Loja de Brinquedos
 
 Este é um sistema para gerenciamento de cadastros e vendas em uma loja de brinquedos. 
 
